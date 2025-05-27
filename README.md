@@ -14,4 +14,4 @@ Welcome to my JavaScript journey.😎
 
 ---
 Let's connect on social platforms:
-[LinkedIn](www.linkedin.com/in/masindi-managa-775557263)
+[LinkedIn](https://www.linkedin.com/in/masindi-managa-775557263)
